@@ -1,0 +1,1 @@
+# trendx-bot
